@@ -7,7 +7,7 @@ How to Run
 `pip install pandas numpy matplotlib seaborn
 python car_market_analysis.py`
 
-Make sure your CSV file is in the same folder as the script, or update the DATA_PATH variable. All charts will be saved to the ./output/ folder automatically.
+Make sure your CSV file is in the same folder as the script, or update the DATA_PATH variable. 
 
 Key Findings from the Analysis
 
